@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.christopherstock.shooter</groupId>
     <artifactId>shooter-maven</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>0.4.2</version>
     <name>shooter-maven</name>
     <url>http://maven.apache.org</url>
